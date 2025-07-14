@@ -2,7 +2,7 @@
 Code accompanying our paper on topographic deep neural networks.
 
 [:link: Read the paper!](https://www.cell.com/neuron/abstract/S0896-6273(24)00279-4)
-
+https://www.biorxiv.org/content/10.1101/2023.05.18.541361v1.full.pdf
 ## Authors:
 * Eshed Margalit :email:
 * Hyodong Lee
